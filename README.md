@@ -1,1 +1,1 @@
-User Interface using angular. This is a Full stack java Project
+Full Stack Java Project using Angular, Springboot and MySQl.
